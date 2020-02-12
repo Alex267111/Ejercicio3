@@ -1,7 +1,7 @@
 /**
  * Clase definida como elemento basico a la hora de crear facturas para el programa
  *
- * @author Alexander Correa
+ * @author Alexander Correa, Fernando Correa y Paul 
  */
 
 public class Factura{
