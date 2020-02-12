@@ -14,8 +14,8 @@ public class Factura{
    * 
    * @param num 
    * @param base 
-   * @param tipoIva 
-   * @param estado 
+   * @param tipoIva El tipo del iva aplicado a la factura
+   * @param estado Estado en el que se encuentra la factura (enum)
    */
   
   public static void main(String[] args) {
