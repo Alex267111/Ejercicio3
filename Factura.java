@@ -21,9 +21,6 @@ public class Factura{
   public static void main(String[] args) {
     
   }
-  
-  public IFactura() {
-  }
 
   public void cambiarEstado(Estado estado) {
   }
