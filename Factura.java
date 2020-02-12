@@ -8,7 +8,7 @@ public class Factura{
   public int num; 
   public float base; 
   public float tipoIva; 
-  public Estados estado;
+  protected Estados estado;
   /**
    * Constructor de la clase factura.
    * 
