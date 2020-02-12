@@ -8,7 +8,7 @@ public class Factura{
   public int num; 
   public float base; 
   public float tipoIva; 
-  public Estados estado; //Enumerado que será implementado en un futuro, indica si la factura está aprobada, pendiente o pagada
+  public Estados estado;
   /**
    * Constructor de la clase factura.
    * 
