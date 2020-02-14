@@ -1,9 +1,9 @@
-/** Clase tipoEnum donde almacenamos el tipo de
-* Factura teniendo solo 3 tipos
+/** Clase tipoEnum donde se almacena el tipo de
+* Factura teniendo 4 tipos
 *
-* @FernandoCT.
-*/
+* @pmh-21.
+**/
 
 public enum Estados {
-    Aprobada,Pendiente,Cobrada
+  Aprobada, Pendiente, Cobrada y Anulada
 }
