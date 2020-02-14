@@ -5,5 +5,5 @@
 **/
 
 public enum Estados {
-  Aprobada, Pendiente, Cobrada y Anulada
+  Aprobada, Pendiente, Cobrada , Anulada
 }
